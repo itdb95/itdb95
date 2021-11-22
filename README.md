@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Damian!
-- 👀 I’m interested in ...
+- 👀 I’m interested in new job in IT.
 - 🌱 I’m currently learning JAVA and Python
 - 💞️ I’m looking to collaborate on learning lvl begginer.
-- 📫 How to reach me ...
 
 
 ### Languages and Tools to learn:
